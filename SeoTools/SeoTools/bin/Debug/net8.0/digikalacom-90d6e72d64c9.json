@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "digikalacom",
+  "private_key_id": "a39fb86d018a5569501bdff1a006396761c30e5e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDho/cET3B8Yr8f\nfkLt5rZQgR4hDDEdqX7J13xdxQKwQCUicJzynCeGsWBqM0hMgnFB/2zIRUrmWYqR\n9z7SNgw+MASdIZNUt7qtYLPKTJc3P37e1GSRZuTYSt2wEbYzxZzWctZryugm1OJ6\nJFoHbVYck1WUovU2wBxPQGtztIBexJ3N6woXvQNXlNHgYo2QF2o4OxwxCaqkG66q\nXVVoYqulw5MUJax5wvylVXKFL1MrswMV1+KVSLJbZXih2MLQuJN8gWpL5r3LG7R0\nCG8vZV9FLrcsKJoMDfA+XoiTSaiBcSyEzoaJhHHNyZnQRk27Y6Lj/nq6xCgHJVgn\n5Zxk+AOxAgMBAAECggEAP8YS+/Hj7hQOxrzt98V8g/ZqaJbEjwin4C56ZRpYry4C\nEODZSyzdcxFRGdMSvSUlE604tsX27HIkWysRY2KJRU5XD3484PXo2jX5utS47JGS\nrzJClmIJjiRi0e+/mpRgxq/AcMjxooAK3tDFbVH2w67UwmTof6f+mFuxwwsiOSY7\nC783SOSx5/g9HXIYrxCNIyDKhhRgLKVtumOvp0sZPhYmNgjuMlm6vV31561K1Bl6\nlmKjc0VM7P7uoVVZAWTphn7skwRn2sle8fnhRTiNd+6a/Ti3e5G/TycoXhzSGaDc\nHMlja6jy3+F3SbH5T4UHRoGAGW6zjd0z7Zvfl4wUvQKBgQD+X6pONLZeR5DEhgws\nGRQCG57RT/QMr4ilJqQ4mhPmAMdoL8Lg+Wp1/iKq13cYCtHr8cf+D1uKu44r7q0r\nMFJwgJYE6swlnrNk+0D9YcrampPHiPcRJ0SWPJZmVJrxQObOL4/UKsxWHqurNH2Y\nRVjc/yevqJLo1blgpzxQOPE2MwKBgQDjFUWZLoA2yszLxzo56/lpXCw2OBnGBWnV\nJo1lrreUmzHQsixr2D8Gj9wCmd7WweZDfkQxOqKIyxZ6n0vmehpjAm/IeWafpdUm\n3KZJDvbC9pcUyi+FYRmjME85Ngc04CtslkOgu/K95kGylUxrasJ+a38s/cgyPDuc\nd/F3WxASiwKBgBsQmLE7gI/lc2zFinQCsxNKVwqURDY5UwOnad+v3SAiwxS9yDFh\nuEcXpB6jUEOZmx5MmmfYwHexXv4jpf8rZAoeVFfvl4sFKLc82HxdNFUwDzsywn7r\nu6t0hNgcdmPm8OfNPbNoXldnagKMUjSqZDsXVuSkvgTSAKhdAtjSRi/rAoGAYVSq\nwh9WQSXnZah84nqsKmahZJPjKCcF16BwlpauhPmH/oV/2LGVQgDDMjI1eyMcyO0D\n2X3iUHOLrP8+Dwli6fEPbIPsYp03oTKN616IkcQTuYt3ltmpnXKFYmYv7I/wzNgT\nIH+uaYqZuiuX16qotnroxaX4+t8qRcR7MMdNOkUCgYB2M9WIPupXaTmGMVlbdtZg\n46mp3gFBTiJQ7exXP481hVJr2NLMrEqAyvlBbelMggXqjwvvPDeQbTjJj7/bbJpz\nVeOB4W8IjcxIJcz4WwHaQDpgYLJLWBjUkUNpKBcms5lqSesCVVd43lEE9Nk4v2ix\n2ZU0za+e5IV4q+ht87epHA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "ranktracker-10@digikalacom.iam.gserviceaccount.com",
+  "client_id": "103049606209630977763",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ranktracker-10%40digikalacom.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
