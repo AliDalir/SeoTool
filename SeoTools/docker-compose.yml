@@ -1,7 +1,0 @@
-version: '3.4'
-
-services:
-  seo-tool-backend:
-    image: alidalir/digikala-seo-tool-backend:backend-1.0
-    ports:
-      - "5000:80"
