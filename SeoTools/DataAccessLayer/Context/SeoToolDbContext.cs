@@ -54,7 +54,7 @@ public class SeoToolDbContext : DbContext
     {
         base.OnConfiguring(optionsBuilder);
         optionsBuilder.UseSqlServer(
-            "Data Source=164.92.229.6,1433; Initial Catalog=seotools; User Id=sa; Password=T4W9LJC537d2TJ6d;TrustServerCertificate=true;",
+            "add yours",
             sqlServerOptionsAction: sqlOptions =>
             {
                 sqlOptions.EnableRetryOnFailure(
