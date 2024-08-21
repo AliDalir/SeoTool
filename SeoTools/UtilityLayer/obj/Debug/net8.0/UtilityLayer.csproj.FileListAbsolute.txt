@@ -1,0 +1,13 @@
+/Users/alidalir/RiderProjects/digikala_seo_tools/SeoTools/UtilityLayer/bin/Debug/net8.0/UtilityLayer.deps.json
+/Users/alidalir/RiderProjects/digikala_seo_tools/SeoTools/UtilityLayer/bin/Debug/net8.0/UtilityLayer.dll
+/Users/alidalir/RiderProjects/digikala_seo_tools/SeoTools/UtilityLayer/bin/Debug/net8.0/UtilityLayer.pdb
+/Users/alidalir/RiderProjects/digikala_seo_tools/SeoTools/UtilityLayer/obj/Debug/net8.0/UtilityLayer.csproj.AssemblyReference.cache
+/Users/alidalir/RiderProjects/digikala_seo_tools/SeoTools/UtilityLayer/obj/Debug/net8.0/UtilityLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alidalir/RiderProjects/digikala_seo_tools/SeoTools/UtilityLayer/obj/Debug/net8.0/UtilityLayer.AssemblyInfoInputs.cache
+/Users/alidalir/RiderProjects/digikala_seo_tools/SeoTools/UtilityLayer/obj/Debug/net8.0/UtilityLayer.AssemblyInfo.cs
+/Users/alidalir/RiderProjects/digikala_seo_tools/SeoTools/UtilityLayer/obj/Debug/net8.0/UtilityLayer.csproj.CoreCompileInputs.cache
+/Users/alidalir/RiderProjects/digikala_seo_tools/SeoTools/UtilityLayer/obj/Debug/net8.0/UtilityLayer.sourcelink.json
+/Users/alidalir/RiderProjects/digikala_seo_tools/SeoTools/UtilityLayer/obj/Debug/net8.0/UtilityLayer.dll
+/Users/alidalir/RiderProjects/digikala_seo_tools/SeoTools/UtilityLayer/obj/Debug/net8.0/refint/UtilityLayer.dll
+/Users/alidalir/RiderProjects/digikala_seo_tools/SeoTools/UtilityLayer/obj/Debug/net8.0/UtilityLayer.pdb
+/Users/alidalir/RiderProjects/digikala_seo_tools/SeoTools/UtilityLayer/obj/Debug/net8.0/ref/UtilityLayer.dll

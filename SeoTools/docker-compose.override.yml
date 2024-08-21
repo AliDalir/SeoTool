@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  seoTools:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=production
+    ports:
+      - "5000:80"

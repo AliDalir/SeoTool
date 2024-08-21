@@ -1,0 +1,7 @@
+version: '3.4'
+
+services:
+  seo-tool-backend:
+    image: alidalir/seotool:backend-1.0
+    ports:
+      - "5000:80"
